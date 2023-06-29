@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![interactive-rating-screenshot](https://github.com/aomsk/interactive-rating-component/blob/main/src/assets/interactive-rating-screenshot%20.png?raw=true)
 
 ### Links
 
