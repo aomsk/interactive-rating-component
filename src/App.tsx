@@ -11,9 +11,6 @@ function App() {
     setSubMit(true);
   };
 
-  console.log('subMit === false && rating === "" : ', subMit === false && rating === "");
-  console.log("rating: ", rating);
-  console.log("subMit: ", subMit);
   return (
     <div>
       {subMit === false ? (
